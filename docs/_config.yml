@@ -21,7 +21,7 @@
 title: DVK's Tech & PM Knowledge Repo
 email: dkehya AT pm DOT me
 description: >- # this means to ignore newlines until "baseurl:"
-  A blog with tech and product management related content, primarily for the purposes of helping me collect, understand, and retain information.
+  A tech and product management blog; primarily for the purposes of helping me collect, understand, and retain information.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: DVK02
