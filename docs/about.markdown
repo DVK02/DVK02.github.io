@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-## Introduction
+# Introduction
 
 Hello there. I'm Dan, and my technical interests revolve around computer science and product management. I completed my Bachelor's of Science at the University of Toronto, specializing in Computer Science. My background initially consisted of software and theory; however, over time, I discovered a passion for product management and user experience.
 
@@ -12,29 +12,29 @@ During my first internship as a mobile game developer, I focused on technical as
 
 At the moment of starting this blog, I am interested in low-level programming and operating systems. This interest was sparked as a result of the operating systems course I had taken. Having learned about virtualization, concurrency, persistence, and security, I developed an appreciation for the complexity of the problems that operating system designers try to address.
 
-## My Knowledge Goals
+# My Knowledge Goals
 
 1. Present concepts in my own words.
 2. Store knowledge.
 3. Showcase knowledge.
 
-### Computer Science
+## Computer Science
 
-#### Low Level Programming
+### Low Level Programming
 
-##### C
-
-- Coming soon...
-
-### Data Analysis
+#### C
 
 - Coming soon...
 
-### Product Management
+## Data Analysis
 
 - Coming soon...
 
-### User Experience
+## Product Management
+
+- Coming soon...
+
+## User Experience
 
 - Coming soon...
 
