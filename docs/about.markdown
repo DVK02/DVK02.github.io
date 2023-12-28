@@ -18,26 +18,6 @@ At the moment of starting this blog, I am interested in low-level programming an
 2. Store knowledge.
 3. Showcase knowledge.
 
-## Computer Science
-
-### Low Level Programming
-
-#### C
-
-- Coming soon...
-
-## Data Analysis
-
-- Coming soon...
-
-## Product Management
-
-- Coming soon...
-
-## User Experience
-
-- Coming soon...
-
 # About the Blog's Backend
 
 This blog is hosted via GitHub Pages, built using Jekyll. I use a markdown editor to write and push my changes using git.
