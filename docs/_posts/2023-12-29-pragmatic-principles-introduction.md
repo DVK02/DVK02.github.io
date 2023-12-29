@@ -14,7 +14,7 @@ tags:
 
 > "_An investment in knowledge always pays the best interest._" - Benjamin Franklin
 
-The first book in my book review series will be "The Pragmatic Programmer" by Andrew Hunt and David Thomas. I aim to cover each chapter by summarizing any takeaways I find interesting or useful. My personal opinion is that these concepts will become increasingly more valuable as AI assisted programming becomes standard practice. The factors that differentiate the skill of programmers, particularly in early career roles, will likely weigh more heavily on their effectiveness and productivity rather than basic syntax and language familiarity.
+The first book in my book review series will be [The Pragmatic Programmer](https://a.co/d/95qdIoI) by Andrew Hunt and David Thomas. I aim to cover each chapter by summarizing any takeaways I find interesting or useful. My personal opinion is that these concepts will become increasingly more valuable as AI assisted programming becomes standard practice. The factors that differentiate the skill of programmers, particularly in early career roles, will likely weigh more heavily on their effectiveness and productivity rather than basic syntax and language familiarity.
 
 The purpose of this book is to help you become a better programmer, regardless of your technical experience, with a focus on practical application over theoretical. It speaks to the importance of being able to provide solutions from understanding basic principles of computer science, rather than relying on any specific tools.
 
@@ -71,17 +71,10 @@ At a high level, a pragmatic programmer will exhibit these qualities:
 
 The authors continue to provide basic characteristics of pragmatic programmers in the form of tips.
 
-- **Tip 1**
-  - Care about your craft. Continue to try and improve your work.
-- **Tip 2**
-  - Think about what you are working on as you work on it. Every decision requires critical appraisal.
-- **Tip 3**
-  - Provide options instead of excuses. When something doesn't work, explain what _can_ be done to fix the problem. Don't be afraid to ask for help.
-- **Tip 4**
-  - Don't live with broken windows; in our context, fix bad designs and poor code as soon as possible. If it is not possible to entirely fix the issue, take _some_ action to prevent further damage.
-- **Tip 5**
-  - Be a catalyst for change.
-- **Tip 6**
-  - Remember the big picture. Review what's happening around you and not just on yourself.
-- **Tip 7**
-  - Make quality a requirements issue. There will be trade-offs made, so let the users help guide you to a version of the product that is good enough.
+- **Tip 1**: Care about your craft. Continue to try and improve your work.
+- **Tip 2**: Think about what you are working on as you work on it. Every decision requires critical appraisal.
+- **Tip 3**: Provide options instead of excuses. When something doesn't work, explain what _can_ be done to fix the problem. Don't be afraid to ask for help.
+- **Tip 4**: Don't live with broken windows; in our context, fix bad designs and poor code as soon as possible. If it is not possible to entirely fix the issue, take _some_ action to prevent further damage.
+- **Tip 5**: Be a catalyst for change.
+- **Tip 6**: Remember the big picture. Review what's happening around you and not just on yourself.
+- **Tip 7**: Make quality a requirements issue. There will be trade-offs made, so let the users help guide you to a version of the product that is good enough.
