@@ -10,12 +10,6 @@ tags:
   - review
 ---
 
-# The Pragmatic Principles: Introduction
-
-## Table of Contents
-
-{:toc}
-
 ## Introduction
 
 > "_An investment in knowledge always pays the best interest._" - Benjamin Franklin
