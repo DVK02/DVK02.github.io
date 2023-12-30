@@ -9,7 +9,6 @@ tags:
   - book
   - review
 ---
-
 ## Introduction
 
 > "_An investment in knowledge always pays the best interest._" - Benjamin Franklin
@@ -67,6 +66,55 @@ At a high level, a pragmatic programmer will exhibit these qualities:
 - The expected quality of the product should be defined in the requirements collected from the user at the beginning.
 - It is also important to know when to stop working on a program or a specific feature. There is such a thing as over-refinement. Put your time to higher value projects.
 
+## Your Knowledge Portfolio
+
+- Your knowledge and experience are your most valuable assets.
+- Managing a knowledge portfolio is similar to a financial portfolio:
+	1) Invest regularly - as a habit.
+		- Pretty straight forward, the most important factor is to make investing in your knowledge portfolio a habit.
+	2) Diversification is key to long-term success.
+		- The more technologies you know, the better you can handle change.
+	3) Balance between conservative and high-risk, high-reward investments.
+		- Some technology might be the next hot thing or it can collapse suddenly, while investing in "conservative" technology could lead to missed opportunities.
+	4) Try to buy low and sell high for maximum return.
+		- Learning emerging tech before it becomes popular.
+	5) Review and rebalance portfolios periodically.
+		- Maybe some of your knowledge is obsolete, maybe some of it is not up to par.
+
+## Knowledge Portfolio Goals
+
+- **Learn at least one new language every year.**
+	- Different languages solve the same problem in different ways. It helps broaden your thinking.
+- **Read a technical book each quarter.**
+	- Preferably something related to a current project. Once you become a master of that project, explore technical books related to other projects.
+- **Read non technical books, too.**
+	- Computers and programs are used by people - don't forget the human side of the equation.
+- **Take classes.**
+	- Look for interesting courses at local universities or colleges.
+- **Participate in local user groups.**
+	- Be an active participant in any local user groups, the networking is also important for your career.
+- **Experiment with different environments.**
+	- If you mainly work with Windows, try Linux (for example). If you only use makefiles and an editor, try and IDE, and vice versa.
+- **Stay current.**
+	- Subscribe to tech blogs.
+- **Get wired.**
+	- Similar to staying current.
+
+The key is to continue investing. If you become comfortable with something you sought to learn, find something new. This process will open your mind to different ways of doing things, even in projects that aren't immediately related to what you learned.
+
+**Dan's opinion**: The knowledge goals I am setting for myself this year are as follows:
+- **New language**: Rust
+- **Technical book**: The Pragmatic Programmer
+- **Non-technical book**: Dune
+- **Take classes**: I will likely opt to follow online courses available for free, related to low level programming
+- **Local user group**: TBD
+- **Different environment**: Installed Arch Linux on my Windows machine (after multiple tries)
+- **Staying current**: TBD
+
+## Opportunities for Learning
+
+- If somebody asks you a question that you do not know the answer to, use it as an opportunity to learn. If you can't find out yourself, then ask someone you might, 
+
 ## Tips
 
 The authors continue to provide basic characteristics of pragmatic programmers in the form of tips.
@@ -78,3 +126,4 @@ The authors continue to provide basic characteristics of pragmatic programmers i
 - **Tip 5**: Be a catalyst for change.
 - **Tip 6**: Remember the big picture. Review what's happening around you and not just on yourself.
 - **Tip 7**: Make quality a requirements issue. There will be trade-offs made, so let the users help guide you to a version of the product that is good enough.
+- **Tip 8**: Invest regularly in your knowledge portfolio.
