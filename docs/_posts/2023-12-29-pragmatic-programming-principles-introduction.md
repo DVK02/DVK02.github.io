@@ -1,19 +1,19 @@
 ---
 layout: post
-title: "Pragmatic Principles: Introduction"
+title: "Pragmatic Programming Principles: Introduction"
 date: 2023-12-29 16:00:00 -0500
 category: Computer Science
 tags:
   - pragmatic
   - programmer
   - book
-  - review
+  - summary
 ---
 ## Introduction
 
 > "_An investment in knowledge always pays the best interest._" - Benjamin Franklin
 
-The first book in my book review series will be [The Pragmatic Programmer](https://a.co/d/95qdIoI) by Andrew Hunt and David Thomas. I aim to cover each chapter by summarizing any takeaways I find interesting or useful. My personal opinion is that these concepts will become increasingly more valuable as AI assisted programming becomes standard practice. The factors that differentiate the skill of programmers, particularly in early career roles, will likely weigh more heavily on their effectiveness and productivity rather than basic syntax and language familiarity.
+The first book in my book summary series will be [The Pragmatic Programmer](https://a.co/d/95qdIoI) by Andrew Hunt and David Thomas. I aim to cover each chapter by summarizing any takeaways I find interesting or useful. My personal opinion is that these concepts will become increasingly more valuable as AI assisted programming becomes standard practice. The factors that differentiate the skill of programmers, particularly in early career roles, will likely weigh more heavily on their effectiveness and productivity rather than basic syntax and language familiarity.
 
 The purpose of this book is to help you become a better programmer, regardless of your technical experience, with a focus on practical application over theoretical. It speaks to the importance of being able to provide solutions from understanding basic principles of computer science, rather than relying on any specific tools.
 
@@ -113,7 +113,35 @@ The key is to continue investing. If you become comfortable with something you s
 
 ## Opportunities for Learning
 
-- If somebody asks you a question that you do not know the answer to, use it as an opportunity to learn. If you can't find out yourself, then ask someone you might, 
+- If somebody asks you a question that you do not know the answer to, use it as an opportunity to learn. If you can't find out yourself, then ask someone who might, and if you don't know someone who might, then it would be wise to add that person to your network.
+- Keep some reading material ready at all times in case there is some free time in your day, such as during a commute or waiting at a doctor's office.
+
+## Critical Thinking
+
+- Think critically about what you read and hear.
+- Do not let your knowledge portfolio be effected by media hype. Keep in mind that top search results can be a matter of content providers paying to be placed there.
+
+## Communicate!
+
+> I believe that it is better to be looked over than it is to be overlooked. - Mae West, Belle of the Nineties, 1934
+
+- Having the best ideas and code is useless without being able to communicate with other people.
+- Communication is a large part of the job; team meetings, client meetings, one on ones, etc.
+- Technically speaking, we communicate with machines through code.
+- Therefore we need to make sure we communicate effectively.
+- Know what you want to say.
+	- Write down what you want to say and ask if it gets across the point you are trying to make.
+	- This approach is applicable for writing documents, important meetings and calls, etc.
+	- Jot down ideas you want to communicate and plan a couple strategies for getting them across.
+- Know your audience.
+	- Understand the needs, interests, and capabilities of your audience.
+	- Pitch your idea with context pertaining to the interests of specific demographic of your audience.
+- Make what you're saying relevant in time and in content.
+- Adjust the style of your delivery to suit your audience.
+- Make it look good using style sheets or layout systems.
+- Involve your audience by having them read an early draft and getting feedback.
+- Be a listener, encourage people to talk by asking questions or have them summarize what you tell them.
+- Get back to people, at the very least with a simple "I'll get back to you later".
 
 ## Tips
 
@@ -127,3 +155,9 @@ The authors continue to provide basic characteristics of pragmatic programmers i
 - **Tip 6**: Remember the big picture. Review what's happening around you and not just on yourself.
 - **Tip 7**: Make quality a requirements issue. There will be trade-offs made, so let the users help guide you to a version of the product that is good enough.
 - **Tip 8**: Invest regularly in your knowledge portfolio.
+- **Tip 9**: Critically analyze what you read and hear.
+- **Tip 10**: It's both what you say and the way you say it.
+
+### Dan's Note to Self
+
+This is my first ever blog post. I think for a book summary the best method is to keep bullet points so it is easy to review at a glance. However, it definitely went on too long. So for future chapters I will split them up into multiple parts if necessary. I stopped paraphrasing as much towards the end as I just wanted to get it over with.
