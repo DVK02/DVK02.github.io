@@ -13,7 +13,7 @@ tags:
 
 > "_An investment in knowledge always pays the best interest._" - Benjamin Franklin
 
-The first book in my book summary series will be [The Pragmatic Programmer](https://a.co/d/95qdIoI) by Andrew Hunt and David Thomas. I aim to cover each chapter by summarizing any takeaways I find interesting or useful. My personal opinion is that these concepts will become increasingly more valuable as AI assisted programming becomes standard practice. The factors that differentiate the skill of programmers, particularly in early career roles, will likely weigh more heavily on their effectiveness and productivity rather than basic syntax and language familiarity.
+The first book in my book summary series will be [The Pragmatic Programmer](https://amzn.to/48ueL4S) by Andrew Hunt and David Thomas. I aim to cover each chapter by summarizing any takeaways I find interesting or useful. My personal opinion is that these concepts will become increasingly more valuable as AI assisted programming becomes standard practice. The factors that differentiate the skill of programmers, particularly in early career roles, will likely weigh more heavily on their effectiveness and productivity rather than basic syntax and language familiarity.
 
 The purpose of this book is to help you become a better programmer, regardless of your technical experience, with a focus on practical application over theoretical. It speaks to the importance of being able to provide solutions from understanding basic principles of computer science, rather than relying on any specific tools.
 
