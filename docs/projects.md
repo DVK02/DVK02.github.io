@@ -12,7 +12,7 @@ permalink: /projects/
 
 ## [Serene Jewellers](https://serenejewellers.com/)
 
-![[Pasted image 20240105125848.png]]
+![Serene Jewellers Home](/assets/images/sj_home.png)
 
 **Description:** A Toronto based, made to order, online Jewellery shop.
 
@@ -25,12 +25,12 @@ permalink: /projects/
 - I recommended and implemented certain engagement features, such as one time discount for providing email and building bundles.
 - Wrote custom Liquid code for product pages that filters product images based on the selected variant.
 
-![[Pasted image 20240105125810.png]]
+![Serene Jewellers Product](/assets/images/sj_product.png)
 
 **Concluding Remarks:** The current traffic is purely organic as marketing has not started, so I am pretty hands off on this project at the moment. Happy to report that we've made over $2,000 in sales so far!
 ## Excel Experts (Site Under Construction)
 
-![[Pasted image 20240105131018.png]]
+![Excel Experts Home](/assets/images/ee_home.png)
 
 **Description:** Excel consultancy.
 
