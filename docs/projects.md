@@ -3,6 +3,12 @@ layout: page
 title: Projects
 permalink: /projects/
 ---
+## Table of Contents
+- Less "Techy" Projects
+	- [Serene Jewellers](#serene-jewellers)
+	- [Excel Experts](##excel-experts)
+- More "Techy" Projects
+	- [Local Web Server](##local-web-server)
 ## [Serene Jewellers](https://serenejewellers.com/)
 
 ![[Pasted image 20240105125848.png]]
@@ -30,7 +36,7 @@ permalink: /projects/
 - Handled every component from setting up web host to writing all the text on the website.
 **Conclusion:** The transferable skills are quite nice and I hope to follow these steps to create more businesses with others. There is still some work that needs to be done before the site goes live.
 
-## HTTP Server (WIP)
+## Local Web Server (WIP)
 
 **Description:** HTTP Server.
 **Tech Stack**: Written in C, hosted on my Pi running Arch Linux.
