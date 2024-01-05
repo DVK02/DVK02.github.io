@@ -4,13 +4,14 @@ title: Projects
 permalink: /projects/
 ---
 ## Table of Contents
-- Less "Techy" Projects
+- More "Producty" Projects
 	- [Serene Jewellers](#serene-jewellers)
 	- [Excel Experts](#excel-experts)
 - More "Techy" Projects
 	- [Local Web Server](#local-web-server)
 
-## [Serene Jewellers](https://serenejewellers.com/)
+## More "Producty" Projects
+### [Serene Jewellers](https://serenejewellers.com/)
 
 ![Serene Jewellers Home](/assets/images/sj_home.png)
 
@@ -28,7 +29,7 @@ permalink: /projects/
 ![Serene Jewellers Product](/assets/images/sj_product.png)
 
 **Concluding Remarks:** The current traffic is purely organic as marketing has not started, so I am pretty hands off on this project at the moment. Happy to report that we've made over $2,000 in sales so far!
-## Excel Experts
+### Excel Experts
 (Site Under Construction)
 
 ![Excel Experts Home](/assets/images/ee_home.png)
@@ -46,7 +47,8 @@ permalink: /projects/
 
 **Conclusion:** The transferable skills are quite nice and I hope to follow these steps to create more businesses with others. There is still some work that needs to be done before the site goes live.
 
-## Local Web Server
+## More "Techy" Projects
+### Local Web Server
 (WIP)
 
 **Description:** HTTP Server.
