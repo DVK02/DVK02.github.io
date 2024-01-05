@@ -15,11 +15,8 @@ permalink: /projects/
 ![Serene Jewellers Home](/assets/images/sj_home.png)
 
 **Description:** A Toronto based, made to order, online Jewellery shop.
-
 **Tech Stack**: Shopify
-
 **My Experience:** Many CS majors can relate when asked by friends and family, "Hey, can you build *x* for me?". I was asked to help build a Shopify store, and I thought it could be an interesting project since it would require some technical and product knowledge. Specifically, I was interested in Shopify's provided user metric dashboards, and once traffic begins to pick up I would love to make improvements to conversion and returning customer numbers.
-
 **Highlights:**
 - I communicated often with the business owner; gathering requirements, explaining certain design decisions, and giving general advice on user flow. 
 - I recommended and implemented certain engagement features, such as one time discount for providing email and building bundles.
