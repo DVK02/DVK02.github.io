@@ -55,11 +55,11 @@ permalink: /projects/
 
 **Tech Stack**: Written in C, hosted on my Pi running Arch Linux.
 
-**My Experience:** This is a very fun project for me, since I've always wanted to combine my low level programming knowledge with a real world application. This started off as a simple handling of HTPP requests, however I am currently adding threading support with *my own* threading library - I am not using Pthreads.
+**My Experience:** This is a very fun project for me, since I've always wanted to combine my low level programming knowledge with a real world application. This started off as a simple handling of HTPP requests, however I am currently adding threading support with *my own* threading library - I am not using [pthreads](https://www.man7.org/linux/man-pages/man7/pthreads.7.html).
 
 **Highlights:**
 - HTTP request parser
-- New thread for each a new connection
+- New thread for each new connection
 	- Round robin thread scheduling
 	- Zombie thread cleanup
 - LRU Caching using simplified 2Q Algorithm
