@@ -55,7 +55,7 @@ permalink: /projects/
 
 **Tech Stack**: Written in C, hosted on my Pi running Arch Linux.
 
-**My Experience:** This is a very fun project for me, since I've always wanted to combine my low level programming knowledge with a real world application. This started off as a simple handling of HTPP requests, however I am currently adding threading support with *my own* threading library - I am not using [pthreads](https://www.man7.org/linux/man-pages/man7/pthreads.7.html).
+**My Experience:** This is a very fun project for me, since I've always wanted to combine my low level programming knowledge with a real world application. This started off as a simple handling of HTPP requests, however I am currently adding threading support with *my own* threading library - I am not using [pthreads](https://www.man7.org/linux/man-pages/man7/pthreads.7.html). I chose to run it on Arch Linux because the setup process forced me to work more closely with the Linux kernel and acquire some sysadmin experience. 
 
 **Highlights:**
 - HTTP request parser
