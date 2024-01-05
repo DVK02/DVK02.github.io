@@ -28,7 +28,7 @@ permalink: /projects/
 ![Serene Jewellers Product](/assets/images/sj_product.png)
 
 **Concluding Remarks:** The current traffic is purely organic as marketing has not started, so I am pretty hands off on this project at the moment. Happy to report that we've made over $2,000 in sales so far!
-## Excel Experts (Site Under Construction)
+## [Excel Experts]() (Site Under Construction)
 
 ![Excel Experts Home](/assets/images/ee_home.png)
 
@@ -44,7 +44,7 @@ permalink: /projects/
 - Handled every component from setting up web host to writing all the text on the website.
 **Conclusion:** The transferable skills are quite nice and I hope to follow these steps to create more businesses with others. There is still some work that needs to be done before the site goes live.
 
-## Local Web Server (WIP)
+## [Local Web Server]() (WIP)
 
 **Description:** HTTP Server.
 
