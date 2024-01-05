@@ -3,18 +3,17 @@ layout: page
 title: About
 permalink: /about/
 ---
-
 # Introduction
 
-Hello there. I'm Dan, and my technical interests revolve around computer science and product management. I completed my Bachelor's of Science at the University of Toronto, specializing in Computer Science. My background initially consisted of software and theory; however, over time, I discovered a passion for product management and user experience.
+Hello there. I'm Dan, and my technical interests revolve around computer science and product management. My educational background is a Bachelor's of Science from the University of Toronto, specializing in Computer Science. In addition to my CS background, I eventually discovered a passion for product management and user experience. 
 
-During my first internship as a mobile game developer, I focused on technical aspects such as: OOP using C#, Unity Editor, building for mobile devices, integrating business services, tracking player data, etc. My natural curiosity led me to explore other aspects of the mobile game business, namely product management. As I developed my skills in building games, I started paying attention to common KPIs (DAU, Retention, ARPU, LTV, etc.) and player-level data (user journey and progression metrics). Eventually, I took ownership of several games, making data-driven decisions to improve KPIs. In other words, I was discovering and defining problems, considering why those problems are worth solving, hypothesizing solutions, and finally implementing those solutions.
+During my first internship at a mobile game startup, I started off as a software engineer. I was writing high-performance, scalable code for mobile devices and making improvements to developer operations. My natural curiosity and desire to contribute led me to explore the product side of the business, so I started paying attention to common KPIs and more granular, player-level data. I eventually took ownership of several games, making data-driven decisions to improve KPIs. I was discovering and defining problems, considering why those problems are worth solving, hypothesizing solutions, and finally handling the technical implementations of those solutions. 
 
-At the moment of starting this blog, I am interested in low-level programming and operating systems. This interest was sparked as a result of the operating systems course I had taken. Having learned about virtualization, concurrency, persistence, and security, I developed an appreciation for the complexity of the problems that operating system designers try to address.
+ I want to leverage my knowledge of software engineering to be a better product manager, and vice versa. This is because I love tackling all sorts of problems, and the colleagues I admire the most have been the ones that learn to solve problems outside of their primary realm of expertise. My end goal is to be the ultimate contributor to any team and project I am a part of.
 
 # My Knowledge Goals
 
-1. Present concepts in my own words.
+1. Write concepts in my own words.
 2. Store knowledge.
 3. Showcase knowledge.
 
