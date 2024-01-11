@@ -100,6 +100,7 @@ class Line {
 	- Either facilitated by a tech lead and clear design or other internal resources.
 	- Have a central place in source tree for common utilities and scripts to be posted.
 	- Get into the habit of reading other people's source code and documentation.
+
 ## Conclusion
 
 If something isn't made easy to use, it wont be used, and very likely knowledge will be duplicated. The continuation of this chapter (part 2 of 3) will be found here.
