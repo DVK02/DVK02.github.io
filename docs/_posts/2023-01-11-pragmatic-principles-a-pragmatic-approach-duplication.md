@@ -37,6 +37,7 @@ The second chapter of [The Pragmatic Programmer](https://amzn.to/48ueL4S) by And
 - **A mistake in the design**
 	- **Example from the distribution industry**: A truck class and a route class can both have a driver attribute. However, say a driver calls in sick and needs to be replaced. Both truck and route have to be updated. There are multiple solutions; revise the design - should a truck or a route have a driver? Should there be a third object that knits together truck and route?
 - **Mutually dependent data**
+
 	```c++
 	class Line {
 	public:
@@ -48,6 +49,7 @@ The second chapter of [The Pragmatic Programmer](https://amzn.to/48ueL4S) by And
 	- The above code defined attribute `distance`, the value of which is dependent on the values of attributes `start` and `finish`.
 	- The problem is that when `start` and/or `finish` get updated, we must *remember* to update distance.
 	- Therefore, it is better to make `distance` a calculated field like so
+
 ```c++
 class Line {
 	public:
