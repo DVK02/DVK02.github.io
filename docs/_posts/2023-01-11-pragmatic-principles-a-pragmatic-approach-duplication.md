@@ -32,7 +32,7 @@ The second chapter of [The Pragmatic Programmer](https://amzn.to/48ueL4S) by And
 
 ### Addressing Inadvertent Duplication
 
-> Avoid unnormalized data.
+>Avoid unnormalized data.
 
 - **A mistake in the design**
 	- **Example from the distribution industry**: A truck class and a route class can both have a driver attribute. However, say a driver calls in sick and needs to be replaced. Both truck and route have to be updated. There are multiple solutions; revise the design - should a truck or a route have a driver? Should there be a third object that knits together truck and route?
@@ -83,6 +83,7 @@ class Line {
 		}
 };
 ```
+
 *Note:* *Where possible, use accessor functions to read and write attributes of objects*.
 ### Impatient Duplication
 
