@@ -60,6 +60,7 @@ class Line {
 	- In the above example, calculating distance isn't an expensive operation. However, there may be cases where the performance cost of avoiding mutually dependent data is not worth it, and caching is required.
 	- In these cases, it is fine to violate *DRY* so long as the violation is contained within the class/function, which at least guarantees a single point of violation.
 	- Example below
+
 ```c++
 class Line {
 	private:
@@ -72,7 +73,7 @@ class Line {
 		void setStart(Point p) { start = p; changed = true; }
 		void setFinish(Point p) { finish = p; changed = true; }
 		Point getStart(void) { return start; }
-		Point getFinish(void) { return end; }
+		Point getFinish(void) { return finish; }
 		
 		double getDistance() {
 			if (changed) {
