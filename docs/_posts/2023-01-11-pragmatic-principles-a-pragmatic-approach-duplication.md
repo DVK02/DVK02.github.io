@@ -108,5 +108,5 @@ If something isn't made easy to use, it wont be used, and very likely knowledge 
 
 *Note: For Tips 1-10 check out the previous post.*
 
-**Tip 11**: *DRY* - Don't Repeat Yourself.
-**Tip 12**: Make it easy to reuse. 
+- **Tip 11**: *DRY* - Don't Repeat Yourself.
+- **Tip 12**: Make it easy to reuse.
