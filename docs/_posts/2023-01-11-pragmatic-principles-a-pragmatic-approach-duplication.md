@@ -10,12 +10,14 @@ category: Computer Science
 representation within a system.
 
 The second chapter of [The Pragmatic Programmer](https://amzn.to/48ueL4S) by Andrew Hunt and David Thomas covers programming processes and ideas that are virtually universal. For this article, I will cover the first section, *The Evils of Duplication*, which warns against duplication of knowledge in your code. Duplicate code can increase the amount of time it takes to change or debug code, and should be avoided at all costs.
+
 ## Types of Duplication
 
 - **Imposed duplication**: The environment "forces" the developer to duplicate.
 - **Inadvertent duplication**: Developer doesn't realize they are duplicating.
 - **Impatient duplication**: Developer is lazy.
 - **Interdeveloper duplication**: Multiple developer's duplicate.
+
 ### Addressing Imposed Duplication
 
 - **Write a code generator**
@@ -88,12 +90,14 @@ class Line {
 ```
 
 *Note:* *Where possible, use accessor functions to read and write attributes of objects*.
+
 ### Impatient Duplication
 
 >Shortcuts make for long delays.
 
 - **Discipline**
 	- Use discipline, usually there isn't an acceptable reason for impatient duplication.
+
 ### Interdeveloper Duplication
 
 - **Interdeveloper Communication**
@@ -104,6 +108,7 @@ class Line {
 ## Conclusion
 
 If something isn't made easy to use, it wont be used, and very likely knowledge will be duplicated. The continuation of this chapter (part 2 of 3) will be found here.
+
 ## Tips
 
 *Note: For Tips 1-10 check out the previous post.*
