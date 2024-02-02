@@ -42,10 +42,49 @@
 - Don't leave something out for a reason you think is "appropriate".
     - Example: Starting a game development company, hired multiple engineers and designers, and overseen development of a game - BUT did not include this point becaues it hadn't launched a game yet.
 - In short, an experience should not be excluded because it wasn't "done".
-- Other reasons include:
+- Other bad reasons include:
     - "It was for class"
     - "We didn't get many downloads"
 
 ## Attributes of a Good PM Resume
 
+- Showcase technical skills, love technology, have initiative, are leaders, and will make an impact.
+- Passion for Technology:
+    - Experiences in tech and side projects.
+- Initiative:
+    - Show initiative through a university club, new employee training program at a startup.
+- Leadership:
+    - Managing an intern.
+- Impact:
+    - Show positive impact in prior roles - highlight personal contributions rather than the team's.
+    - Explicitly state what you've built, created, led, or implemented.
+    - Avoid weak phrases such as "worked with" and "helped with".
+- Tech Skills:
+    - List programming languages in a "technical skils" section.
+    - Ideally will also have specific projects to list.
 
+## What to Include
+
+This section lists common components found in resumes and rates their importance.
+
+Do not include every bullet here!!! 
+
+- Objectives: Never useful.
+    - Almost always a waste of space - everything put here can be inferred by the resume and the act of submitting the resume.
+- Summary: Rarely useful.
+    - A good resume conveys this information already.
+- Skills: Include if applicable.
+    - Include technical skills / proficiency with software design.
+- Awards: Include.
+    - Make award meaningful; How select is it? What did you do to win it?
+- Activities: Sometimes include.
+    - Personally, I do not like this so exclude it. - Dan
+- Projects: Include.
+    - Probably 2nd most important resume item.
+    - Describe what the project is that you built and what metrics of success you have.
+- Website URL: Include.
+    - Website should provide your resume, as well as additional details about your projects (such as screenshots).
+- Education: Depends based on how long ago you graduated.
+    - Substantial Leadership Positions, emphasis on substantial.
+
+Work experience and projects go at the top. Skills and education at the bottom.
