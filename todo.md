@@ -1,14 +1,20 @@
 # Blog Core
 
-- Change from jekyll to hugo
-- Blog themes
-    - [blowfish theme](https://themes.gohugo.io/themes/blowfish/)
-- Portfolio themes
-    - [toha](https://themes.gohugo.io/themes/toha/)
+- Blog theme
+    - 
+- Portfolio theme
+    -
+- Landing page include:
+    - About
+    - Skills
+    - Experiences
+    - Education
+    - Projects
+    - Link to blog
 
 ## Context
 
 - The goals are to:
-    - Improve visuals
+    - Improve visuals/style
     - Have dedicated theme for landing page + portfolio
     - Have dedicated theme for blog
