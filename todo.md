@@ -1,16 +1,24 @@
 # Blog Core
 
-- Blog theme
-    - 
-- Portfolio theme
-    -
-- Landing page include:
+- Switch to Hugo
+- Blog theme inspiration
+    - Blowfish
+- Portfolio theme inspiration
+    - Toha
+
+- Site Layout / Sections
+    - Landing Page
+    - Blog
+    - Navbar
+
+- Landing page
     - About
     - Skills
     - Experiences
     - Education
     - Projects
     - Link to blog
+
 
 ## Context
 
