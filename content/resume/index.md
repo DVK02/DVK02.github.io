@@ -1,6 +1,6 @@
 ---
 title: "Resume (WIP)"
-date: 2022-06-13T21:28:51+01:00
+date: 2024-02-29
 draft: false
 
 showDate : false
