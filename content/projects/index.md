@@ -1,5 +1,5 @@
 ---
-title: "Projects (WIP)"
+title: "Projects"
 date: 2024-02-29
 draft: false
 
@@ -15,7 +15,7 @@ showWordCount : false
 showSummary : false
 sharingLinks : false
 showEdit: false
-showViews: true
+showViews: false 
 showLikes: false
 layoutBackgroundHeaderSpace: false
 showRelatedContent: false
@@ -23,8 +23,7 @@ showRelatedContent: false
 
 ---
 
-I always try to find time to work and learn something new. Usually, most of these _pet-projects_ don't see the light of day. They are, however, great opportunities to try something in the real world and learn from it.
-
+I like to wear different hats, largely due to my natural curiosity and desire to learn, and building projects is the best way for me to delve into engineering, design, and UX. My projects cover a wide range of consumer focus and technical complexity, and it is important to me that any client I work with allows me to dig deep into their problem space. 
 <table>
     <thead>
         <tr>
@@ -36,22 +35,22 @@ I always try to find time to work and learn something new. Usually, most of thes
     </thead>
     <tbody>
          <tr>
-            <td><img class="customEntitityAlbum" style="background-color:transparent" src="blowfish_logo.png"/></td>
-            <td>Blowfish</td>
-            <td>A powerful, lightweight theme for Hugo built with Tailwind CSS.</td>
-            <td><a target="_blank" href="https://blowfish.page">site</a></br><a target="_blank" href="https://github.com/nunocoracao/blowfish">github</a></td>
+            <td><img class="customEntitityAlbum" style="background-color:transparent" src="sp.png"/></td>
+            <td>Startpage</td>
+            <td>A custom startpage for web browsers.</td>
+            <td><a target="_blank" href="https://www.danielkehyayan.com/startpage/">site</a></br><a target="_blank" href="https://github.com/DVK02/startpage">github</a></td>
         </tr>
          <tr>
-            <td><img class="customEntitityAlbum" style="background-color:transparent" src="blowfish-tools.png"/></td>
-            <td>Blowfish-Tools</td>
-            <td>CLI to initialize a Blowfish project</td>
-            <td><a target="_blank" href="https://blowfish.page">site</a></br><a target="_blank" href="https://github.com/nunocoracao/blowfish-tools">github</a></br><a target="_blank" href="https://www.npmjs.com/package/blowfish-tools">NPM</a></td>
+            <td><img class="customEntitityAlbum" style="background-color:transparent" src="ee.png"/></td>
+            <td>Excel Experts</td>
+            <td>Excel consultation website for local business, with a design that highlights key information and booking process.</td>
+            <td><a target="_blank" href="https://excelexperts.ca/">site</a></td>
         </tr>
         <tr>
-            <td><img class="customEntitityAlbum" style="background-color:transparent" src="wormhole-logo-square.png"/></td>
-            <td>Wormhole</td>
-            <td>A wormhole into the universe - web feed for deep space photography</td>
-            <td><a target="_blank" href="https://wormhole.photos">site</a></br><a target="_blank" href="https://github.com/wormhole-photos">github</a></td>
+            <td><img class="customEntitityAlbum" style="background-color:transparent" src="sj.png"/></td>
+            <td>Serene Jewellers</td>
+            <td>E-commerce site for local jewellery store, built to maximize conversions and retain customers.</td>
+            <td><a target="_blank" href="https://serenejewellers.com/">site</a></td>
         </tr>
     </tbody>
 </table>
