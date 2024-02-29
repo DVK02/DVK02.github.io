@@ -1,12 +1,15 @@
-# config/_default/languages.en.toml
+languageCode = "en"
+languageName = "English"
+weight = 1
+title = "DK's Site"
 
-title = "My awesome website"
+[params]
+displayName = "EN"
+isoCode = "en"
+rtl = false
+dateFormat = "2 January 2006"
 
 [author]
 name = "Daniel Kehyayan"
-image = "img/author.jpg"
-headline = "A generally awesome human"
-bio = "A little bit about me"
-links = [
-  { github = "https://github.com/DVK02" }
-]
+headline = "Computer Scientist / Product Manager / Tech Enthusiast"
+image = "profile.png"
