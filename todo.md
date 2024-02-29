@@ -2,3 +2,4 @@
 
 - Add to home page about me section
 - Add more posts
+- Add my_scripts in projects

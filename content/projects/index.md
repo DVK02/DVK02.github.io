@@ -23,7 +23,8 @@ showRelatedContent: false
 
 ---
 
-I like to wear different hats, largely due to my natural curiosity and desire to learn, and building projects is the best way for me to delve into engineering, design, and UX. My projects cover a wide range of consumer focus and technical complexity, and it is important to me that any client I work with allows me to dig deep into their problem space. 
+My projects cover a wide range of consumer focus and technical complexity, and it is important to me that any client I work with allows me to dig deep into their problem space. 
+
 <table>
     <thead>
         <tr>
