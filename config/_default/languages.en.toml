@@ -10,6 +10,9 @@ rtl = false
 dateFormat = "2 January 2006"
 
 [author]
-name = "Daniel Kehyayan"
 headline = "Computer Scientist / Product Manager / Tech Enthusiast"
 image = "profile.png"
+
+[[params.author]]
+name = "Daniel Kehyayan"
+email = "dkehya@pm.me"
