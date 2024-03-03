@@ -6,8 +6,18 @@
     <description>Recent content in Posts on DK&#39;s Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <copyright>© 2024 Daniel Kehyayan</copyright>
+    <copyright>© 2024 </copyright>
     <lastBuildDate>Thu, 29 Feb 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Linux Desktop Terminology</title>
+      <link>http://localhost:1313/posts/2024-03-linux-desktop-terminology/</link>
+      <pubDate>Sun, 03 Mar 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2024-03-linux-desktop-terminology/</guid>
+      <description>High level summary of linux desktop terminology.</description>
+      
+    </item>
+    
     <item>
       <title>Pragmatic Programming Principles: Duplication</title>
       <link>http://localhost:1313/posts/2024-01-pragmatic-programming-duplication/</link>

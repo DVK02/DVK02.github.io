@@ -60,7 +60,7 @@ homepageImage = "background.jpg"
   showAuthorsBadges = true
   showWordCount = false
   showSummary = true
-  sharingLinks = [ "linkedin", "twitter", "whatsapp", "telegram", "pinterest", "reddit", "facebook", "email"]
+  sharingLinks = false 
 
 [list]
   showHero = true

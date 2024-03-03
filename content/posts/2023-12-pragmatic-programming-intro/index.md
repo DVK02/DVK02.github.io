@@ -2,7 +2,7 @@
 title: "Pragmatic Programming Principles: Introduction"
 date: 2023-12-29
 categories: ["Computer Science"]
-series: ["The\ Pragmatic\ Programmer"]
+series: ["The-Pragmatic-Programmer"]
 series_order: 1
 ---
 ## Introduction
