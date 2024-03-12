@@ -5,4 +5,5 @@ categories: ["Linux"]
 tags: ["Fedora", "Debian", "rpm", "deb", "Linux Bible"]
 series: ["Linux-Software-Management"]
 series_order: 2
+draft: true
 ---

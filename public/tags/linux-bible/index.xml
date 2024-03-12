@@ -18,45 +18,5 @@
       
     </item>
     
-    <item>
-      <title>Linux Software Management: Desktop Interface</title>
-      <link>http://localhost:1313/posts/2024-03-linux-software-desktop/</link>
-      <pubDate>Mon, 04 Mar 2024 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/posts/2024-03-linux-software-desktop/</guid>
-      <description>Series Introduction # This article series is based on the chapter &amp;ldquo;Getting and Managing Software&amp;rdquo; from the The Linux Bible.</description>
-      
-    </item>
-    
-    <item>
-      <title>Linux Software Management: Enterprise</title>
-      <link>http://localhost:1313/posts/2024-03-linux-software-enterprise/</link>
-      <pubDate>Mon, 04 Mar 2024 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/posts/2024-03-linux-software-enterprise/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Linux Software Management: rpm and deb</title>
-      <link>http://localhost:1313/posts/2024-03-linux-software-rpm-deb/</link>
-      <pubDate>Mon, 04 Mar 2024 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/posts/2024-03-linux-software-rpm-deb/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Linux Software Management: yum/dnf</title>
-      <link>http://localhost:1313/posts/2024-03-linux-software-yum/</link>
-      <pubDate>Mon, 04 Mar 2024 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/posts/2024-03-linux-software-yum/</guid>
-      <description></description>
-      
-    </item>
-    
   </channel>
 </rss>

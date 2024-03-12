@@ -5,6 +5,7 @@ categories: ["Linux"]
 tags: ["Fedora", "Ubuntu", "Linux Bible", "Introductory Linux"]
 series: ["Linux-Software-Management"]
 series_order: 1
+draft: true
 ---
 
 ## Series Introduction
