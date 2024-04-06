@@ -2,48 +2,48 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Series on DK&#39;s Site</title>
-    <link>http://localhost:1313/series/</link>
+    <link>https://danielkehyayan.com/series/</link>
     <description>Recent content in Series on DK&#39;s Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2024 </copyright>
-    <lastBuildDate>Fri, 08 Mar 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/series/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 08 Mar 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://danielkehyayan.com/series/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Introduction-to-Product-Management</title>
-      <link>http://localhost:1313/series/introduction-to-product-management/</link>
+      <link>https://danielkehyayan.com/series/introduction-to-product-management/</link>
       <pubDate>Fri, 08 Mar 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/series/introduction-to-product-management/</guid>
+      <guid>https://danielkehyayan.com/series/introduction-to-product-management/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Linux-Basic-System-Administration</title>
-      <link>http://localhost:1313/series/linux-basic-system-administration/</link>
+      <link>https://danielkehyayan.com/series/linux-basic-system-administration/</link>
       <pubDate>Mon, 04 Mar 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/series/linux-basic-system-administration/</guid>
+      <guid>https://danielkehyayan.com/series/linux-basic-system-administration/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Linux-Overview</title>
-      <link>http://localhost:1313/series/linux-overview/</link>
+      <link>https://danielkehyayan.com/series/linux-overview/</link>
       <pubDate>Sun, 03 Mar 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/series/linux-overview/</guid>
+      <guid>https://danielkehyayan.com/series/linux-overview/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>The-Pragmatic-Programmer</title>
-      <link>http://localhost:1313/series/the-pragmatic-programmer/</link>
+      <link>https://danielkehyayan.com/series/the-pragmatic-programmer/</link>
       <pubDate>Thu, 11 Jan 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/series/the-pragmatic-programmer/</guid>
+      <guid>https://danielkehyayan.com/series/the-pragmatic-programmer/</guid>
       <description></description>
       
     </item>

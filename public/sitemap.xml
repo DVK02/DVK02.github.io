@@ -3,73 +3,73 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://danielkehyayan.com/</loc>
+    <lastmod>2024-04-02T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://danielkehyayan.com/posts/2024-03-pm-resume/</loc>
     <lastmod>2024-03-08T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/posts/2024-03-pm-resume/</loc>
+    <loc>https://danielkehyayan.com/posts/2024-03-eng-to-pm/</loc>
     <lastmod>2024-03-08T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/posts/2024-03-eng-to-pm/</loc>
+    <loc>https://danielkehyayan.com/posts/2024-03-what-is-pm/</loc>
     <lastmod>2024-03-08T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/posts/2024-03-what-is-pm/</loc>
-    <lastmod>2024-03-08T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/posts/2024-03-linux-hardware/</loc>
+    <loc>https://danielkehyayan.com/posts/2024-03-linux-hardware/</loc>
     <lastmod>2024-03-04T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/posts/2024-03-linux-desktop/</loc>
+    <loc>https://danielkehyayan.com/posts/2024-03-linux-desktop/</loc>
     <lastmod>2024-03-03T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/posts/2024-03-what-is-linux/</loc>
+    <loc>https://danielkehyayan.com/posts/2024-03-what-is-linux/</loc>
     <lastmod>2024-03-03T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/posts/</loc>
+    <loc>https://danielkehyayan.com/posts/</loc>
     <lastmod>2024-02-29T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/projects/</loc>
+    <loc>https://danielkehyayan.com/projects/</loc>
     <lastmod>2024-02-29T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/resume/</loc>
+    <loc>https://danielkehyayan.com/resume/</loc>
     <lastmod>2024-02-29T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/posts/2024-01-pragmatic-programming-duplication/</loc>
+    <loc>https://danielkehyayan.com/posts/2024-01-pragmatic-programming-duplication/</loc>
     <lastmod>2024-01-11T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/posts/2023-12-pragmatic-programming-intro/</loc>
+    <loc>https://danielkehyayan.com/posts/2023-12-pragmatic-programming-intro/</loc>
     <lastmod>2023-12-29T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>

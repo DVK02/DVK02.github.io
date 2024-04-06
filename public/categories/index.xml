@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on DK&#39;s Site</title>
-    <link>http://localhost:1313/categories/</link>
+    <link>https://danielkehyayan.com/categories/</link>
     <description>Recent content in Categories on DK&#39;s Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2024 </copyright>
-    <lastBuildDate>Fri, 08 Mar 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 08 Mar 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://danielkehyayan.com/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Product Management</title>
-      <link>http://localhost:1313/categories/product-management/</link>
+      <link>https://danielkehyayan.com/categories/product-management/</link>
       <pubDate>Fri, 08 Mar 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/categories/product-management/</guid>
+      <guid>https://danielkehyayan.com/categories/product-management/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Linux</title>
-      <link>http://localhost:1313/categories/linux/</link>
+      <link>https://danielkehyayan.com/categories/linux/</link>
       <pubDate>Mon, 04 Mar 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/categories/linux/</guid>
+      <guid>https://danielkehyayan.com/categories/linux/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Computer Science</title>
-      <link>http://localhost:1313/categories/computer-science/</link>
+      <link>https://danielkehyayan.com/categories/computer-science/</link>
       <pubDate>Thu, 11 Jan 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/categories/computer-science/</guid>
+      <guid>https://danielkehyayan.com/categories/computer-science/</guid>
       <description></description>
       
     </item>

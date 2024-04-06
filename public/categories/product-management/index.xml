@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Product Management on DK&#39;s Site</title>
-    <link>http://localhost:1313/categories/product-management/</link>
+    <link>https://danielkehyayan.com/categories/product-management/</link>
     <description>Recent content in Product Management on DK&#39;s Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2024 </copyright>
-    <lastBuildDate>Fri, 08 Mar 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/categories/product-management/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 08 Mar 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://danielkehyayan.com/categories/product-management/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Product Manager Resume</title>
-      <link>http://localhost:1313/posts/2024-03-pm-resume/</link>
+      <link>https://danielkehyayan.com/posts/2024-03-pm-resume/</link>
       <pubDate>Fri, 08 Mar 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2024-03-pm-resume/</guid>
+      <guid>https://danielkehyayan.com/posts/2024-03-pm-resume/</guid>
       <description>Resumes # The 15 Second Rule # A resume screener will glace at resume for about 15 seconds.</description>
       
     </item>
     
     <item>
       <title>Transition from Software Engineer to Product Manager</title>
-      <link>http://localhost:1313/posts/2024-03-eng-to-pm/</link>
+      <link>https://danielkehyayan.com/posts/2024-03-eng-to-pm/</link>
       <pubDate>Fri, 08 Mar 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2024-03-eng-to-pm/</guid>
+      <guid>https://danielkehyayan.com/posts/2024-03-eng-to-pm/</guid>
       <description>Engineer to PM # There are some transitional skills that should be highlighted and taken advantage of.</description>
       
     </item>
     
     <item>
       <title>What is Product Management?</title>
-      <link>http://localhost:1313/posts/2024-03-what-is-pm/</link>
+      <link>https://danielkehyayan.com/posts/2024-03-what-is-pm/</link>
       <pubDate>Fri, 08 Mar 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2024-03-what-is-pm/</guid>
+      <guid>https://danielkehyayan.com/posts/2024-03-what-is-pm/</guid>
       <description>What is a PM?</description>
       
     </item>

@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Linux Hardware on DK&#39;s Site</title>
-    <link>http://localhost:1313/tags/linux-hardware/</link>
+    <link>https://danielkehyayan.com/tags/linux-hardware/</link>
     <description>Recent content in Linux Hardware on DK&#39;s Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2024 </copyright>
-    <lastBuildDate>Mon, 04 Mar 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/linux-hardware/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 04 Mar 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://danielkehyayan.com/tags/linux-hardware/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Configure and Manage Linux Hardware</title>
-      <link>http://localhost:1313/posts/2024-03-linux-hardware/</link>
+      <link>https://danielkehyayan.com/posts/2024-03-linux-hardware/</link>
       <pubDate>Mon, 04 Mar 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2024-03-linux-hardware/</guid>
+      <guid>https://danielkehyayan.com/posts/2024-03-linux-hardware/</guid>
       <description>Introduction # Nowadays, the Linux kernel and many popular distributions provide out of the box support for common devices, however there are still cases that require manual intervention to get a system fully up and running.</description>
       
     </item>
